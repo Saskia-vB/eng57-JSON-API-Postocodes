@@ -13,3 +13,17 @@ This repo explores using the package Requests, to make GET and POST request to a
 ## HTTP GET VS POST
 
 ## Main status codes
+
+________//_____________
+## Package managers
+what is it? 
+
+### list the package managers
+Please go find the name of the package managers for:
+- python
+- ruby
+- js
+
+- linux - unbuntu
+- windows
+- IOS
