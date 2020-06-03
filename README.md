@@ -13,28 +13,35 @@ This repo explores using the package Requests, to make GET and POST request to a
 ## What is JSON
 - JSON is from JavaScript (JS) Object Notation
 - fyi in JS an object is both a dictionary and an array
+- JSON is a text file that is a dictionary in JS
 - JSON and JS became the web standard for APIs and also front end development because browsers only read HTML, CSS and JS
 - the other reason is that it's a simple text file
 - all other languages found it easy to build a "parser" that converted the JSON object into the equivalent in the native language
 - all other languages found it easy to build a "parser" that converted the JSON object into the equivalent in the native language
     - parser/parsing: syntax analysis, process of analysing a string of symbols either in natural languages or computer languages conforming to the rules of a formal grammar. 
     
-    
+
 ## HTTP GET VS POST
 
 ### GET
 - request data from a specified resource
 - one of the most common HTTP methods
+- visible and cached: should not contain sensitive info
+- shouldn't modify data
+- eg search page
 
 ### POST
 - used to send data to a server to create/update a resource
+- used when changing something, not limited to
 - the data sent to the server with POST is stored in the request body of the http request
 
 ## Main status codes
+200 - 299 = GOOD
 
 ________//_____________
 ## Package managers
 - package manner system is a collection of software tools that automates the process of installing, upgrading, configuring and removing computer programs for a computer's operating system in a consistent manner.
+- eg app stores, google play
 
 ### list the package managers
 Please go find the name of the package managers for:
