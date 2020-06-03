@@ -34,14 +34,14 @@ This repo explores using the package Requests, to make GET and POST request to a
 
 ________//_____________
 ## Package managers
-what is it? 
+- package manner system is a collection of software tools that automates the process of installing, upgrading, configuring and removing computer programs for a computer's operating system in a consistent manner.
 
 ### list the package managers
 Please go find the name of the package managers for:
-- python
-- ruby
-- js
+- python: Python Package Manager (PyPM) - pip
+- ruby: RubyGems
+- js: npm, Yarn, pnpm
 
-- linux - unbuntu
-- windows
+- linux - unbuntu : Debian Package Management System, Red Hat Package Manager, Pacman Package Manager, Zypper Package Manager, Portage Package Manager
+- windows: 
 - IOS
