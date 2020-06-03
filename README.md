@@ -7,10 +7,28 @@ This repo explores using the package Requests, to make GET and POST request to a
 - Complete this README.md
 
 ## What is an API
+- application programming interface
+- defines interactions between multiple software intermediaries
 
 ## What is JSON
-
+- JSON is from JavaScript (JS) Object Notation
+- fyi in JS an object is both a dictionary and an array
+- JSON and JS became the web standard for APIs and also front end development because browsers only read HTML, CSS and JS
+- the other reason is that it's a simple text file
+- all other languages found it easy to build a "parser" that converted the JSON object into the equivalent in the native language
+- all other languages found it easy to build a "parser" that converted the JSON object into the equivalent in the native language
+    - parser/parsing: syntax analysis, process of analysing a string of symbols either in natural languages or computer languages conforming to the rules of a formal grammar. 
+    
+    
 ## HTTP GET VS POST
+
+### GET
+- request data from a specified resource
+- one of the most common HTTP methods
+
+### POST
+- used to send data to a server to create/update a resource
+- the data sent to the server with POST is stored in the request body of the http request
 
 ## Main status codes
 
